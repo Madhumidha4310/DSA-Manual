@@ -1,4 +1,4 @@
-#include <iostream> 
+#include <iostream>
 using namespace std; 
 int main() { 
 int n, key, index = -1; 
@@ -30,3 +30,4 @@ cout << "Element not found in the array" << endl;
  
 return 0; 
 }
+
